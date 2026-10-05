@@ -44,9 +44,9 @@
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| **SDU-ATSC** | ระบบลงทะเบียนและจัดการสอบออนไลน์ของมหาวิทยาลัย | React, Micro Frontend, Node.js, MySQL, Docker |
-| **Beyond the Plate** | ระบบจำแนกความเสี่ยงสารพิวรีนในอาหาร | Python, K-Means Clustering, Scikit-learn |
-| **ZeroAccident** | Web application สำหรับจัดการด้านอาชีวอนามัยและความปลอดภัย | Express.js, MySQL, Docker |
+| **SDU-ATSC** | ระบบลงทะเบียนและจัดการสอบออนไลน์ของมหาวิทยาลัย | React, TailwinCSS, Micro Frontend, Node.js, Express.js, MySQL, Docker |
+| **Beyond the Plate** | ระบบจำแนกความเสี่ยงสารพิวรีนในอาหาร | React, TailwinCSS, Python, K-Means Clustering, Scikit-learn, Node.js, Express.js, MySQL, Docker |
+| **SDU-HEALTHCARE** | ระบบนัดหมายและจัดการยาสำหรับห้องพยาบาล | React, TailwinCSS, Node.js, Express.js, MySQL, Docker |
 
 <br>
 
